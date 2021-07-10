@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StopcarApplication<stopcar>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.topcar.stopcar.StopcarApplication",
+            "projectName": "stopcar",
+            "args": ""
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+form{
+    width: 100%;
+    margin: 30px;
+    text-align: center;
+}
+
+form input[type="text"]{
+    width: 46% !important;
+    float: left;
+    margin: 1%;
+}
+
+form input[type="button"]{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+}
